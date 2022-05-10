@@ -1,0 +1,20 @@
+.footer-wrapper{
+    background-color: #f0ebe7;
+    margin: auto;
+}
+.footer-content-wrapper{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 15px;
+    color: #4a4861;
+}
+.footer-text{
+    text-align: center;
+    font-family: ThirstyScript-ExtraBold;
+}
+
+@media screen and (max-width: 600px) {
+    .footer-content-wrapper{
+        font-size: 8px;
+    }
+  }

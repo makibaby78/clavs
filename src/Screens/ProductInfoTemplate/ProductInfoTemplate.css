@@ -1,0 +1,60 @@
+.pit-content-wrapper {
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 40%);
+    padding: 15px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.pit-info-l {
+    display: flex;
+    column-gap: 15px;
+}
+.pit-info-l-item {
+    width: calc(50% - 8px);
+    text-align: left;
+    row-gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.pit-wrapper {
+    padding: 10px 0;
+    background-color: #f8f8f8;
+    margin: auto;
+}
+.pit-options {
+    display: flex;
+    padding: 20px 0;
+    justify-content: space-between;
+}
+.pit-options a {
+    text-decoration: none;
+    color: #ffd814;
+    background-color: rgb(96 89 120 / 60%);
+    padding: 5px 6px 13px 6px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+}
+.pit-options a:hover{
+    color: #fff;
+    background-color: #4a4861;
+    transition-duration: 0.3s;
+}
+.pit-stars-wrappers img {
+    max-width: 25px;
+}
+.pit-stars-wrappers {
+    display: flex;
+    column-gap: 3px;
+}
+.pit-price {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.pit-price h2{
+    font-size: 35px;
+}

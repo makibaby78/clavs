@@ -1,0 +1,157 @@
+@font-face{
+	font-family: BebasNeue-Regular;
+	src: url(./Fonts/BebasNeue-Regular.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Light;
+	src: url(./Fonts/Montserrat-Light.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Regular;
+	src: url(./Fonts/Montserrat-Regular.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Bold;
+	src: url(./Fonts/Montserrat-Bold.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: TrendSansOne;
+	src: url(./Fonts/TrendSansOne.ttf);
+	font-weight: bold;
+}
+@font-face {
+    font-family: ThirstyScript-ExtraBold;
+    src: url(./Fonts/ThirstyScriptExtraBold.otf);
+  }
+@font-face {
+    font-family: ThirstyRoughLight;
+    src: url(./Fonts/ThirstyRoughLight.otf);
+  }
+@font-face {
+    font-family: ThirstyRoughRegular;
+    src: url(./Fonts/ThirstyRoughRegular.otf);
+  }
+@font-face {
+    font-family: MilasianCircaMedium;
+    src: url(./Fonts//MilasianCircaMediumPERSONAL.ttf);
+  }
+@font-face {
+    font-family: libre-baskerville-bold;
+    src: url(./Fonts/libre-baskerville.bold.ttf);
+  }
+@font-face {
+    font-family: CaviarDreams;
+    src: url(./Fonts/CaviarDreams.ttf);
+  }
+  
+.App{
+    overflow: hidden;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: TrendSansOne;
+}
+p{
+    font-family: Montserrat-Light;
+}
+h1{
+    font-size: 50px;
+    padding: 20px 0;
+}
+h3{
+    font-size: 25px;
+}
+/*Helpers*/
+.universal-btn {
+    padding: 10px 15px;
+    margin: 10px auto;
+    background-color: #4a4861;
+    color: #fff;
+    transition: 0.2s;
+    border: 1px solid #4a4861;
+    transition-duration: 0.3s;
+}
+.universal-btn:hover {
+    background-color: #fff;
+    color: #4a4861;
+    transition: 0.2s;
+    box-sizing: border-box;
+}
+.spta {
+    text-align: center;
+    padding: 15px 0;
+}
+.smh{
+    min-height: 80vh;
+}
+.sw{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+.ssw{
+    max-width: 1600px;
+}
+button {
+	cursor: pointer;
+    padding: 13px 20px;
+    outline: none;
+    border: none;
+    border-radius: 18px;
+}
+.bt{
+    overflow: hidden;
+    max-width: 1600px;
+    border-top: 4px solid #4a4861;
+}
+@media screen and (max-width: 992px) {
+    .btn-hc{
+        display: unset;
+    }
+    p, span, td{
+        font-size: 14px;
+    }
+    h1{
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+  }
+@media screen and (max-width: 768px) {
+    .bt{
+        border-top: 3px solid #4a4861;
+    }
+}
+@media screen and (max-width: 600px) {
+    p, span, td{
+        font-size: 12px;
+    }
+    h1{
+        font-size: 32px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 16px;
+    }
+    h4{
+        font-size: 13px;
+    }
+    button {
+        padding: 10px 15px
+    }
+    .bt{
+        border-top: 2px solid #4a4861;
+    }
+  }
