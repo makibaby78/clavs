@@ -24,7 +24,7 @@ function App() {
             <Header />
             <Headerv2 />
             <Routes>
-              <Route path="/react-projects-test" element={<Home />} />
+              <Route path="/clavs" element={<Home />} />
               <Route path="/*" element={<ErrorPage />} />
               <Route path="/order" element={<Order/>} />
               <Route path="/catering" element={<Catering />} />
