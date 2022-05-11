@@ -97,6 +97,7 @@ h3{
 }
 .ssw{
     max-width: 1600px;
+    margin: auto;
 }
 button {
 	cursor: pointer;
