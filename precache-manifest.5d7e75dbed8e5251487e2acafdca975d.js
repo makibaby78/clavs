@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a98bbd3f438ebf4b4661",
-    "url": "/clavs/static/css/main.64e672d4.chunk.css"
+    "revision": "12144955d40d4d615c83",
+    "url": "/clavs/static/css/main.5d6ff12e.chunk.css"
   },
   {
-    "revision": "a98bbd3f438ebf4b4661",
-    "url": "/clavs/static/js/main.a98bbd3f.chunk.js"
+    "revision": "12144955d40d4d615c83",
+    "url": "/clavs/static/js/main.12144955.chunk.js"
   },
   {
-    "revision": "877ddeaf8032078f6663",
-    "url": "/clavs/static/js/1.877ddeaf.chunk.js"
+    "revision": "5ee476ae1244b517c019",
+    "url": "/clavs/static/js/1.5ee476ae.chunk.js"
   },
   {
-    "revision": "ec5bd900186b6d69cf36",
-    "url": "/clavs/static/js/2.ec5bd900.chunk.js"
+    "revision": "1502058e2d78d2b4a8f9",
+    "url": "/clavs/static/js/2.1502058e.chunk.js"
   },
   {
-    "revision": "a8a9c0aad4ffbf087e60",
-    "url": "/clavs/static/js/runtime~main.a8a9c0aa.js"
+    "revision": "de5e2caa2f27ca71de93",
+    "url": "/clavs/static/js/runtime~main.de5e2caa.js"
   },
   {
     "revision": "d7eee0c2e62d0af675db76c38affffbd",
@@ -88,23 +88,23 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/ThirstyRoughLight.c513283c.otf"
   },
   {
-    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
-    "url": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
+    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
+    "url": "/clavs/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
   },
   {
     "revision": "3670aa493ee09e92c7b8e1e7c2f5b441",
     "url": "/clavs/static/media/CaviarDreams.3670aa49.ttf"
   },
   {
-    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
-    "url": "/clavs/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
+    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
+    "url": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
     "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
     "url": "/clavs/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
-    "revision": "c8e867baeb43602958da2a25b85378d3",
+    "revision": "706900605b5eaf595e599d0d2003909a",
     "url": "/clavs/index.html"
   }
 ];
