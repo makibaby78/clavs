@@ -1,7 +1,7 @@
 {
-  "main.css": "/clavs/static/css/main.5d6ff12e.chunk.css",
-  "main.js": "/clavs/static/js/main.12144955.chunk.js",
-  "main.js.map": "/clavs/static/js/main.12144955.chunk.js.map",
+  "main.css": "/clavs/static/css/main.ff83dcf1.chunk.css",
+  "main.js": "/clavs/static/js/main.c64ef02d.chunk.js",
+  "main.js.map": "/clavs/static/js/main.c64ef02d.chunk.js.map",
   "static/js/1.5ee476ae.chunk.js": "/clavs/static/js/1.5ee476ae.chunk.js",
   "static/js/1.5ee476ae.chunk.js.map": "/clavs/static/js/1.5ee476ae.chunk.js.map",
   "static/js/2.1502058e.chunk.js": "/clavs/static/js/2.1502058e.chunk.js",
@@ -18,9 +18,9 @@
   "static/media/pexels-lucie-liz-3256807.jpg": "/clavs/static/media/pexels-lucie-liz-3256807.55fc7d16.jpg",
   "static/media/Pink Muffins.jpg": "/clavs/static/media/Pink Muffins.77651133.jpg",
   "static/media/Bread.png": "/clavs/static/media/Bread.710c0ee1.png",
-  "static/media/App.css": "/clavs/static/media/ThirstyRoughRegular.d6ee8f76.otf",
-  "static/css/main.5d6ff12e.chunk.css.map": "/clavs/static/css/main.5d6ff12e.chunk.css.map",
+  "static/media/App.css": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf",
+  "static/css/main.ff83dcf1.chunk.css.map": "/clavs/static/css/main.ff83dcf1.chunk.css.map",
   "index.html": "/clavs/index.html",
-  "precache-manifest.5d7e75dbed8e5251487e2acafdca975d.js": "/clavs/precache-manifest.5d7e75dbed8e5251487e2acafdca975d.js",
+  "precache-manifest.be7b8deb272f96b737c19e941b352b6a.js": "/clavs/precache-manifest.be7b8deb272f96b737c19e941b352b6a.js",
   "service-worker.js": "/clavs/service-worker.js"
 }

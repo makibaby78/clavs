@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "12144955d40d4d615c83",
-    "url": "/clavs/static/css/main.5d6ff12e.chunk.css"
+    "revision": "c64ef02df13f24086574",
+    "url": "/clavs/static/css/main.ff83dcf1.chunk.css"
   },
   {
-    "revision": "12144955d40d4d615c83",
-    "url": "/clavs/static/js/main.12144955.chunk.js"
+    "revision": "c64ef02df13f24086574",
+    "url": "/clavs/static/js/main.c64ef02d.chunk.js"
   },
   {
     "revision": "5ee476ae1244b517c019",
@@ -64,16 +64,20 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/BebasNeue-Regular.47f711bd.ttf"
   },
   {
-    "revision": "57a8d90fbe52cdc657be8d679f925066",
-    "url": "/clavs/static/media/Montserrat-Light.57a8d90f.ttf"
-  },
-  {
     "revision": "718651c5afbbca8153f7c78027f16a85",
     "url": "/clavs/static/media/TrendSansOne.718651c5.ttf"
   },
   {
     "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
     "url": "/clavs/static/media/Montserrat-Regular.68900018.ttf"
+  },
+  {
+    "revision": "57a8d90fbe52cdc657be8d679f925066",
+    "url": "/clavs/static/media/Montserrat-Light.57a8d90f.ttf"
+  },
+  {
+    "revision": "c513283c055aa42238561a31ad9e6737",
+    "url": "/clavs/static/media/ThirstyRoughLight.c513283c.otf"
   },
   {
     "revision": "0c12ee2fd868459a1db633259b2ba50a",
@@ -84,8 +88,8 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/ThirstyScriptExtraBold.21924433.otf"
   },
   {
-    "revision": "c513283c055aa42238561a31ad9e6737",
-    "url": "/clavs/static/media/ThirstyRoughLight.c513283c.otf"
+    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
+    "url": "/clavs/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
     "revision": "8588f6fedb41275ed6501522a7ad8f2a",
@@ -100,11 +104,7 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
-    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
-    "url": "/clavs/static/media/ThirstyRoughRegular.d6ee8f76.otf"
-  },
-  {
-    "revision": "706900605b5eaf595e599d0d2003909a",
+    "revision": "ac6168f30f8cf256aa5f91c528baacb6",
     "url": "/clavs/index.html"
   }
 ];
