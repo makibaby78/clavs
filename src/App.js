@@ -24,6 +24,7 @@ function App() {
             <Header />
             <Headerv2 />
             <Routes>
+              <Route path="/" element={<Home />} />
               <Route path="/clavs" element={<Home />} />
               <Route path="/*" element={<ErrorPage />} />
               <Route path="/order" element={<Order/>} />

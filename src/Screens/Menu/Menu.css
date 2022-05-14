@@ -13,7 +13,6 @@
     align-items: center;
     width: 100%;
     background-color: #fff;
-    grid-row-gap: 5px;
     row-gap: 5px;
     transition-duration: 0.2s;
 }
@@ -41,25 +40,34 @@
 .menu-box-wrapper {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
 }
 .spacer{
     height: 30px;
 }
 @media screen and (max-width: 992px) {
     .mbw-img-wrapper {
-        height: 200px;
         padding: 13px;
+        height: 280px;
     } 
+    .mbw-sizing{
+        width: calc(50% - 5px);
+    }
 }
 @media screen and (max-width: 768px) {
     .mbw-img-wrapper {
-        height: 150px;
-        padding: 12px;
+        height: 250px;
+        padding: 10px;
     }
 }
 @media screen and (max-width: 600px) {
     .mbw-img-wrapper {
-        height: 100px;
-        padding: 10px;
+        height: 200px;
+        padding: 8px;
+    }
+    .mbw-sizing{
+        width: 100%;
     }
   }
