@@ -8,7 +8,7 @@ import { addToCart } from '../../features/addToCart'
 const Cakes = () => {
   const dispatch = useDispatch();
   return (
-  <div className='cakes-wrapper sw smh'>
+  <div className='cakes-wrapper scw smh'>
     <div className='cakes-content-wrapper ssw spta'>
       <h1>CAKES</h1>
       <div className='pit-options'>

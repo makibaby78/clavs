@@ -82,4 +82,7 @@
     .pit-options a {
         padding: 2px 3px 12px 3px;
     }
+    .pit-options h2{
+        font-size: 18px;
+    }
 }

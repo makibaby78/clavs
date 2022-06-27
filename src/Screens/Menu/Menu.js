@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 const Menu = () => {
   return (
     <div className='menu-wrapper ssw smh'>
-      <div className='menu-content-wrapper sw spta'>
+      <div className='menu-content-wrapper scw spta'>
         <h1>MENU</h1>
         <div className='menu-box-wrapper'>
           <Link className='mbw-sizing' to="/cupcakes">

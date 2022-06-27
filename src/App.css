@@ -95,6 +95,11 @@ h3{
     max-width: 1200px;
     margin: auto;
 }
+.scw{
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+}
 .ssw{
     max-width: 1600px;
     margin: auto;
@@ -134,6 +139,10 @@ button {
     }
 }
 @media screen and (max-width: 600px) {
+    .universal-btn {
+        margin: 5px auto;
+        font-size: 10px;
+    }
     p, span, td{
         font-size: 12px;
     }

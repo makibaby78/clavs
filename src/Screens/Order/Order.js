@@ -10,7 +10,7 @@ const Order = () => {
   const dispatch = useDispatch();
   return (
     <div className='order-wrapper ssw smh'>
-      <div className='sw order-content-wrapper spta'>
+      <div className='scw order-content-wrapper spta'>
         <h1>PRODUCTS</h1>
         <div className='products-wrapper'>
           {ProductData.map((products)=>{

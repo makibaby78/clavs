@@ -149,6 +149,13 @@
     row-gap: 20px;
 }
 @media screen and (max-width: 768px) {
+    .cart-ei {
+        width: auto;
+    }
+    .cart-item-empty button {
+        font-size: 18px;
+        margin: auto;
+    }
     .cart-price {
         font-size: 18px;
     }

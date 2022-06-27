@@ -9,7 +9,7 @@ const ProductInfoTemplate = () => {
   const productToDisplay = useSelector((state)=>state.productInfoReducers.value)
   return (
     <div  className='pit-wrapper ssw smh'>
-      <div className='sw'>
+      <div className='scw'>
           <div className='pit-options'>
             <Link to="/order"><h2>Shop Now!</h2></Link>
             <Link to="/shoppingcart"><h2>Shopping Cart</h2></Link>

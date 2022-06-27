@@ -22,14 +22,15 @@
 }
 .order-card {
     box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 40%);
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
     align-items: center;
-    width: calc(33% - 5px);
+    width: calc(25% - 10px);
     background-color: #fff;
+    grid-row-gap: 5px;
     row-gap: 5px;
 }
 .card-description-order {
@@ -63,12 +64,12 @@
 }
 @media screen and (max-width: 600px) {
     .order-card {
-        width: calc(49% - 7px);
+        width: calc(33% - 7px);
     }
 }
 @media screen and (max-width: 480px) {
     .order-card {
-        width: 100%;
+        width: calc(49% - 7px);
     }
     .header-second {
         padding: 10px;

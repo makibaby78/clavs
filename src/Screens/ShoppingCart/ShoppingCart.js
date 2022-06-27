@@ -12,7 +12,7 @@ const ShoppingCart = () => {
   const result = cartToDisplay.reduce((total, currentValue) => total = total + parseInt(currentValue.price),0);
   return (
     <div className='shoppingcart-wrapper ssw  smh'>
-      <div className='sw spta'>
+      <div className='scw spta'>
         <div className='shoppingcart-content-wrapper'>
           <h1>SHOPPING CART</h1>
           {cartToDisplay.length<=0 ? '' : 
