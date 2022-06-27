@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "76ce061bd3450b0c68c9",
-    "url": "/clavs/static/css/main.334675a9.chunk.css"
+    "revision": "23eed27ebd766d200eb6",
+    "url": "/clavs/static/css/main.4ef6da1d.chunk.css"
   },
   {
-    "revision": "76ce061bd3450b0c68c9",
-    "url": "/clavs/static/js/main.76ce061b.chunk.js"
+    "revision": "23eed27ebd766d200eb6",
+    "url": "/clavs/static/js/main.23eed27e.chunk.js"
   },
   {
     "revision": "5ee476ae1244b517c019",
@@ -64,28 +64,36 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/BebasNeue-Regular.47f711bd.ttf"
   },
   {
-    "revision": "57a8d90fbe52cdc657be8d679f925066",
-    "url": "/clavs/static/media/Montserrat-Light.57a8d90f.ttf"
-  },
-  {
-    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
-    "url": "/clavs/static/media/Montserrat-Regular.68900018.ttf"
+    "revision": "718651c5afbbca8153f7c78027f16a85",
+    "url": "/clavs/static/media/TrendSansOne.718651c5.ttf"
   },
   {
     "revision": "0c12ee2fd868459a1db633259b2ba50a",
     "url": "/clavs/static/media/Montserrat-Bold.0c12ee2f.ttf"
   },
   {
-    "revision": "718651c5afbbca8153f7c78027f16a85",
-    "url": "/clavs/static/media/TrendSansOne.718651c5.ttf"
+    "revision": "c513283c055aa42238561a31ad9e6737",
+    "url": "/clavs/static/media/ThirstyRoughLight.c513283c.otf"
+  },
+  {
+    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
+    "url": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
+  },
+  {
+    "revision": "3670aa493ee09e92c7b8e1e7c2f5b441",
+    "url": "/clavs/static/media/CaviarDreams.3670aa49.ttf"
   },
   {
     "revision": "2192443373f4e6d6fe159bd11d497c24",
     "url": "/clavs/static/media/ThirstyScriptExtraBold.21924433.otf"
   },
   {
-    "revision": "c513283c055aa42238561a31ad9e6737",
-    "url": "/clavs/static/media/ThirstyRoughLight.c513283c.otf"
+    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
+    "url": "/clavs/static/media/Montserrat-Regular.68900018.ttf"
+  },
+  {
+    "revision": "57a8d90fbe52cdc657be8d679f925066",
+    "url": "/clavs/static/media/Montserrat-Light.57a8d90f.ttf"
   },
   {
     "revision": "8588f6fedb41275ed6501522a7ad8f2a",
@@ -96,15 +104,7 @@ self.__precacheManifest = [
     "url": "/clavs/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
-    "revision": "3670aa493ee09e92c7b8e1e7c2f5b441",
-    "url": "/clavs/static/media/CaviarDreams.3670aa49.ttf"
-  },
-  {
-    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
-    "url": "/clavs/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
-  },
-  {
-    "revision": "f393ea3751fef0fff7a6b2bb95fe3fa0",
+    "revision": "85c03f93d4976c1db0de0b8570583cee",
     "url": "/clavs/index.html"
   }
 ];
